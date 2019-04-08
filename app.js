@@ -1,8 +1,8 @@
 
-    var amigos = ["Estefany","Gael","Helen","Yashiel"];
+    var amigo = ["Estefany","Gael","Helen","Yashiel"];
     var i = 0;
 
-    while(i<=amigos.length-1){
-      document.write(amigos[i]+"<br>");
+    while(i<=amigo.length-1){
+      document.write(amigo[i]+"<br>");
       i++;
     };
